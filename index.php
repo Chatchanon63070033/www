@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <h1>Sawasdeekrub</h1>
+    <h1>Chatchanon Kaewsukkho Mark</h1>
     <p>Cat in the sky</p>
     <img src="cat.jpg">
     <br>
@@ -15,7 +15,7 @@
     <p>Opz TV</p>
     <img src="opz.jpg">
     <br>
-    <a href="http://wwww.it.kmitl.ac.th">This is a link</a>
+    <a href="http://www.it.kmitl.ac.th">This is a link</a>
 
     <h3>Good night</h3>
     <p>bedroom</p>
@@ -23,7 +23,7 @@
     <br>
     <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
-    <h4>Thank You</h4>
+    <h4>สวัสดีครับ</h4>
     <ul>
         <li>Google</li>
         <li>Yahoo</li>
