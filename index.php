@@ -15,7 +15,7 @@
     <p>Opz TV</p>
     <img src="opz.jpg">
     <br>
-    <a href="http://www.it.kmitl.ac.th">This is a link</a>
+    <a href="https://www.youtube.com/c/OPZTV">This is a link</a>
 
     <h3>Good night</h3>
     <p>bedroom</p>
