@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <img src="img/work/work5.jpg" class="img-fluid" style="height:100%; width:100%" />
+                <img src="work5.jpg" class="img-fluid" style="height:100%; width:100%" />
                 <h1>Coding</h1>
                 <p>Good Learn</p>
             </div>
@@ -22,24 +22,24 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="row">
-                            <img src="img/content/office1.jpg" class="img-fluid" width="100%" />
+                            <img src="office1.jpg" class="img-fluid" width="100%" />
                         </div>
                         <div class="row">
-                            <img src="img/work/work9.jpg" class="img-fluid" width="100%" />
+                            <img src="work9.jpg" class="img-fluid" width="100%" />
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="img/creative/creative8.jpg" class="img-fluid rounded-circle" />
+                        <img src="creative8.jpg" class="img-fluid rounded-circle" />
                         <h1>Lighter</h1>
                         <p>must be light</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
-                        <img src="img/staffs/staff3.jpg" class="img-fluid" width="100%" />
+                        <img src="staff3.jpg" class="img-fluid" width="100%" />
                     </div>
                     <div class="col-lg-6">
-                        <img src="img/creative/creative5.jpg" class="img-fluid" width="100%" />
+                        <img src="creative5.jpg" class="img-fluid" width="100%" />
                     </div>
                 </div>
             </div>
